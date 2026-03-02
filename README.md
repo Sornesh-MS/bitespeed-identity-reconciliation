@@ -63,3 +63,7 @@ Example request:
     "secondaryContactIds": []
   }
 }
+
+## 🌐 Hosted Endpoint
+
+https://bitespeed-identity-reconciliation-jnj4.onrender.com/identify
